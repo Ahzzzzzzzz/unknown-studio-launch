@@ -8,7 +8,7 @@ const ld eps = 0.0000000001;
 const ll N = 2e6+10;
 
 ll kl(ll u){
-    return 2*u;
+    return 2*u
 }
 
 ll kr(ll u){
